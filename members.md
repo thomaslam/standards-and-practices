@@ -265,6 +265,8 @@ Format:
 | Taylor Skidmore | [SirSkidmore](https://github.com/SirSkidmore) | I have some experience in Ruby and C++; I am looking to get a better grasp on both languages. |
 | thearrowflies | [ngbmameman](https://github.com/ngbmameman) | Experience with C++, Java, and learning Python. |
 | Thomas Hobohm | [superman3275](https://github.com/superman3275) | C++, SFML, Python, Pygame, Java, HTML, CSS, JavaScript |
+
+| Thomas Lam | [thomaslam](https://github.com/thomaslam) | I have experience with Java, Objective C; I'm currently teaching myself web development using Ruby on Rails |
 | Thom Green | [bloodythorn](https:://github.com/bloodythorn) | C++, SFML, Game Development ||
 | Tim Downey | [tcdowney](https://github.com/tcdowney) ||
 | Tim Fulton | [tmfulton](https://github.com/tmfulton) || I know Java, some python and objective-C, I'm hoping to learn alot more about programming
